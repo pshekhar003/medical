@@ -1,0 +1,65 @@
+c:\users\neelam\documents\visual studio 2010\Projects\WindowsApplication4\WindowsApplication4\bin\Debug\WindowsApplication4.exe
+c:\users\neelam\documents\visual studio 2010\Projects\WindowsApplication4\WindowsApplication4\bin\Debug\WindowsApplication4.pdb
+c:\users\neelam\documents\visual studio 2010\Projects\WindowsApplication4\WindowsApplication4\bin\Debug\WindowsApplication4.xml
+c:\users\neelam\documents\visual studio 2010\Projects\WindowsApplication4\WindowsApplication4\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\neelam\documents\visual studio 2010\Projects\WindowsApplication4\WindowsApplication4\obj\x86\Debug\WindowsApplication4.Form1.resources
+c:\users\neelam\documents\visual studio 2010\Projects\WindowsApplication4\WindowsApplication4\obj\x86\Debug\WindowsApplication4.Form2.resources
+c:\users\neelam\documents\visual studio 2010\Projects\WindowsApplication4\WindowsApplication4\obj\x86\Debug\WindowsApplication4.Form3.resources
+c:\users\neelam\documents\visual studio 2010\Projects\WindowsApplication4\WindowsApplication4\obj\x86\Debug\WindowsApplication4.Form4.resources
+c:\users\neelam\documents\visual studio 2010\Projects\WindowsApplication4\WindowsApplication4\obj\x86\Debug\WindowsApplication4.Form5.resources
+c:\users\neelam\documents\visual studio 2010\Projects\WindowsApplication4\WindowsApplication4\obj\x86\Debug\WindowsApplication4.Form6.resources
+c:\users\neelam\documents\visual studio 2010\Projects\WindowsApplication4\WindowsApplication4\obj\x86\Debug\WindowsApplication4.Resources.resources
+c:\users\neelam\documents\visual studio 2010\Projects\WindowsApplication4\WindowsApplication4\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\neelam\documents\visual studio 2010\Projects\WindowsApplication4\WindowsApplication4\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\neelam\documents\visual studio 2010\Projects\WindowsApplication4\WindowsApplication4\obj\x86\Debug\WindowsApplication4.exe
+c:\users\neelam\documents\visual studio 2010\Projects\WindowsApplication4\WindowsApplication4\obj\x86\Debug\WindowsApplication4.xml
+c:\users\neelam\documents\visual studio 2010\Projects\WindowsApplication4\WindowsApplication4\obj\x86\Debug\WindowsApplication4.pdb
+C:\Users\neelam\Documents\Visual Studio 2010\Projects\WindowsApplication4\WindowsApplication4\bin\Debug\WindowsApplication4.exe.manifest
+C:\Users\neelam\Documents\Visual Studio 2010\Projects\WindowsApplication4\WindowsApplication4\bin\Debug\WindowsApplication4.application
+C:\Users\neelam\Documents\Visual Studio 2010\Projects\WindowsApplication4\WindowsApplication4\obj\x86\Debug\WindowsApplication4.exe.manifest
+C:\Users\neelam\Documents\Visual Studio 2010\Projects\WindowsApplication4\WindowsApplication4\obj\x86\Debug\WindowsApplication4.application
+D:\SXC\VB.NET\VB.Net Softwares\WindowsApplication4\WindowsApplication4\obj\x86\Debug\WindowsApplication4.xml
+D:\SXC\VB.NET\VB.Net Softwares\WindowsApplication4\WindowsApplication4\obj\x86\Debug\WindowsApplication4.pdb
+D:\SXC\VB.NET\VB.Net Softwares\WindowsApplication4\WindowsApplication4\bin\Debug\WindowsApplication4.exe.manifest
+D:\SXC\VB.NET\VB.Net Softwares\WindowsApplication4\WindowsApplication4\bin\Debug\WindowsApplication4.application
+D:\SXC\VB.NET\VB.Net Softwares\WindowsApplication4\WindowsApplication4\bin\Debug\WindowsApplication4.exe
+D:\SXC\VB.NET\VB.Net Softwares\WindowsApplication4\WindowsApplication4\bin\Debug\WindowsApplication4.pdb
+D:\SXC\VB.NET\VB.Net Softwares\WindowsApplication4\WindowsApplication4\bin\Debug\WindowsApplication4.xml
+D:\SXC\VB.NET\VB.Net Softwares\WindowsApplication4\WindowsApplication4\obj\x86\Debug\WindowsApplication4.Form1.resources
+D:\SXC\VB.NET\VB.Net Softwares\WindowsApplication4\WindowsApplication4\obj\x86\Debug\WindowsApplication4.Form3.resources
+D:\SXC\VB.NET\VB.Net Softwares\WindowsApplication4\WindowsApplication4\obj\x86\Debug\WindowsApplication4.Form2.resources
+D:\SXC\VB.NET\VB.Net Softwares\WindowsApplication4\WindowsApplication4\obj\x86\Debug\WindowsApplication4.Form4.resources
+D:\SXC\VB.NET\VB.Net Softwares\WindowsApplication4\WindowsApplication4\obj\x86\Debug\WindowsApplication4.Form5.resources
+D:\SXC\VB.NET\VB.Net Softwares\WindowsApplication4\WindowsApplication4\obj\x86\Debug\WindowsApplication4.Form6.resources
+D:\SXC\VB.NET\VB.Net Softwares\WindowsApplication4\WindowsApplication4\obj\x86\Debug\WindowsApplication4.Resources.resources
+D:\SXC\VB.NET\VB.Net Softwares\WindowsApplication4\WindowsApplication4\obj\x86\Debug\WindowsApplication4.vbproj.GenerateResource.Cache
+D:\SXC\VB.NET\VB.Net Softwares\WindowsApplication4\WindowsApplication4\obj\x86\Debug\WindowsApplication4.exe.manifest
+D:\SXC\VB.NET\VB.Net Softwares\WindowsApplication4\WindowsApplication4\obj\x86\Debug\WindowsApplication4.application
+D:\SXC\VB.NET\VB.Net Softwares\WindowsApplication4\WindowsApplication4\obj\x86\Debug\WindowsApplication4.exe
+C:\Users\Ashutosh\Desktop\New folder\WindowsApplication4\WindowsApplication4\obj\x86\Debug\WindowsApplication4.exe
+C:\Users\Ashutosh\Desktop\New folder\WindowsApplication4\WindowsApplication4\obj\x86\Debug\WindowsApplication4.xml
+C:\Users\Ashutosh\Desktop\New folder\WindowsApplication4\WindowsApplication4\obj\x86\Debug\WindowsApplication4.pdb
+D:\SXC\VB.NET\VB.Net Softwares\First Care Pharmacy\WindowsApplication4\WindowsApplication4\obj\x86\Debug\WindowsApplication4.exe
+D:\SXC\VB.NET\VB.Net Softwares\First Care Pharmacy\WindowsApplication4\WindowsApplication4\obj\x86\Debug\WindowsApplication4.xml
+D:\SXC\VB.NET\VB.Net Softwares\First Care Pharmacy\WindowsApplication4\WindowsApplication4\obj\x86\Debug\WindowsApplication4.pdb
+D:\Study Material\VB.NET\VB.Net Softwares\WindowsApplication4\WindowsApplication4\obj\x86\Debug\WindowsApplication4.exe
+D:\Study Material\VB.NET\VB.Net Softwares\WindowsApplication4\WindowsApplication4\obj\x86\Debug\WindowsApplication4.xml
+D:\Study Material\VB.NET\VB.Net Softwares\WindowsApplication4\WindowsApplication4\obj\x86\Debug\WindowsApplication4.pdb
+D:\Study Material\VB.NET\VB.Net Softwares\WindowsApplication4\WindowsApplication4\bin\Debug\WindowsApplication4.exe.manifest
+D:\Study Material\VB.NET\VB.Net Softwares\WindowsApplication4\WindowsApplication4\bin\Debug\WindowsApplication4.application
+D:\Study Material\VB.NET\VB.Net Softwares\WindowsApplication4\WindowsApplication4\bin\Debug\WindowsApplication4.exe
+D:\Study Material\VB.NET\VB.Net Softwares\WindowsApplication4\WindowsApplication4\bin\Debug\WindowsApplication4.pdb
+D:\Study Material\VB.NET\VB.Net Softwares\WindowsApplication4\WindowsApplication4\bin\Debug\WindowsApplication4.xml
+D:\Study Material\VB.NET\VB.Net Softwares\WindowsApplication4\WindowsApplication4\obj\x86\Debug\WindowsApplication4.Form1.resources
+D:\Study Material\VB.NET\VB.Net Softwares\WindowsApplication4\WindowsApplication4\obj\x86\Debug\WindowsApplication4.Form3.resources
+D:\Study Material\VB.NET\VB.Net Softwares\WindowsApplication4\WindowsApplication4\obj\x86\Debug\WindowsApplication4.Form2.resources
+D:\Study Material\VB.NET\VB.Net Softwares\WindowsApplication4\WindowsApplication4\obj\x86\Debug\WindowsApplication4.Form4.resources
+D:\Study Material\VB.NET\VB.Net Softwares\WindowsApplication4\WindowsApplication4\obj\x86\Debug\WindowsApplication4.Form5.resources
+D:\Study Material\VB.NET\VB.Net Softwares\WindowsApplication4\WindowsApplication4\obj\x86\Debug\WindowsApplication4.Form6.resources
+D:\Study Material\VB.NET\VB.Net Softwares\WindowsApplication4\WindowsApplication4\obj\x86\Debug\WindowsApplication4.Resources.resources
+D:\Study Material\VB.NET\VB.Net Softwares\WindowsApplication4\WindowsApplication4\obj\x86\Debug\WindowsApplication4.vbproj.GenerateResource.Cache
+D:\Study Material\VB.NET\VB.Net Softwares\WindowsApplication4\WindowsApplication4\obj\x86\Debug\WindowsApplication4.exe.manifest
+D:\Study Material\VB.NET\VB.Net Softwares\WindowsApplication4\WindowsApplication4\obj\x86\Debug\WindowsApplication4.application
+D:\WindowsApplication4\WindowsApplication4\obj\x86\Debug\WindowsApplication4.exe
+D:\WindowsApplication4\WindowsApplication4\obj\x86\Debug\WindowsApplication4.xml
+D:\WindowsApplication4\WindowsApplication4\obj\x86\Debug\WindowsApplication4.pdb
